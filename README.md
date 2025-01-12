@@ -1,4 +1,4 @@
-# kubernetes-helm-promethus-grafana
+# kubernetes-helm-prometheus-grafana
 This repository contains a demonstration of deploying a simple To-Do App with a frontend and backend using Kubernetes, packaged with Helm. The app is instrumented to expose metrics for monitoring, and the setup includes Prometheus for metric collection and Grafana for visualization.
 
 # Technologies Used
