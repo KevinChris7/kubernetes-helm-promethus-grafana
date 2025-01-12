@@ -1,4 +1,0 @@
-apiVersion: v2
-name: todo-app
-description: A simple To-Do app with frontend and backend
-version: 0.1.0
